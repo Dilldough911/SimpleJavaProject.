@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb2804d0-ff2e-45c3-8a15-6e64caa1aed3" name="Changes" comment="" />
+    <list default="true" id="eb2804d0-ff2e-45c3-8a15-6e64caa1aed3" name="Changes" comment="Program Sederhana">
+      <change beforePath="$PROJECT_DIR$/../Simple_Java_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple_Java_Project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Simple_Java_Project" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dilldough911"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dilldough911/SimpleJavaProject.",
+    "accountId": "9fc9b788-4da4-4f59-aabf-7d84ab28bd8f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -38,6 +52,30 @@
       <option name="presentableId" value="Default" />
       <updated>1760921512678</updated>
     </task>
+    <task id="LOCAL-00001" summary="Program Sederhana">
+      <option name="closed" value="true" />
+      <created>1760922738150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760922738150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Program Sederhana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program Sederhana" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Simple_Java_Project/src/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
