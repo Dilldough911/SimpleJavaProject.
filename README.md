@@ -13,9 +13,13 @@ Program ini hanya menampilkan pesan sederhana ke layar (console) serta informasi
 2. Clone repositori ini:
    ```bash
    git clone https://github.com/<username>/SimpleJavaProject.git
-
-   cd SimpleJavaProject
    
+Masuk ke
+folder proyek:
+cd SimpleJavaProject
+
+Jalankan program:
+
 javac Main.java
 java Main
 
